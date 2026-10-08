@@ -1,7 +1,7 @@
 {
-    "version":  299,
-    "notes":  "Cap nhat phien ban moi, toi uu hieu nang va sua loi.",
-    "url":  "https://github.com/VanHung-vps/TienDatVPS-Update/releases/download/v299/update.zip",
-    "sha256":  "523c9baa860ad2fe37e7ee80da11f482f75ff09392b2afe0f3eb837cf8bc0dfd",
-    "min_client_version":  298
+    "version":  1,
+    "notes":  "Phien ban V1 chinh thuc - Tien Dat VPS",
+    "url":  "https://github.com/VanHung-vps/TienDatVPS-Update/releases/download/v1/update.zip",
+    "sha256":  "ac5245f2124ae01a285d070a7627f304a006cbf85f35aa822cab15bc06e30eef",
+    "min_client_version":  1
 }
