@@ -1,7 +1,7 @@
 {
-    "version":  1,
-    "notes":  "Phien ban V1 chinh thuc - Tien Dat VPS",
-    "url":  "https://github.com/VanHung-vps/TienDatVPS-Update/releases/download/v1/update.zip",
-    "sha256":  "ac5245f2124ae01a285d070a7627f304a006cbf85f35aa822cab15bc06e30eef",
+    "version":  2,
+    "notes":  "Bản cập nhật V2: Tối ưu bộ cài tự động, khắc phục lỗi xác minh Setting\\Setting.exe, hỗ trợ cảnh báo đỏ khi có bản mới.",
+    "url":  "https://github.com/VanHung-vps/TienDatVPS-Update/releases/download/v2/update.zip",
+    "sha256":  "5c0187773d93f88458b93ac3eb1a8b68aefb5cdacaf3318cf7a2e9cabc3bbd9e",
     "min_client_version":  1
 }
