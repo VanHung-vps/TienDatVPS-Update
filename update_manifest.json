@@ -1,7 +1,7 @@
 {
-  "version": 19,
-  "notes": "Ban cap nhat V19: THÔNG BÁO CẬP NHẬT — TIẾN ĐẠT VPS / QUẢN LÝ TÀI KHOẢN (APPMANAGER)",
-  "url": "https://github.com/VanHung-vps/TienDatVPS-Update/releases/download/v19/update.zip",
-  "sha256": "5e1cd16cdbaf4057dca5269684621004cc0a9eba9cfae7b86a025a270eaa8304",
+  "version": 20,
+  "notes": "Ban cap nhat V20: ﻿THÔNG BÁO CẬP NHẬT — TIẾN ĐẠT VPS / JAVA SWING 403",
+  "url": "https://github.com/VanHung-vps/TienDatVPS-Update/releases/download/v20/update.zip",
+  "sha256": "f6c620a74fbd6e1a600d2b4bff2e0ba3b87a45303fb2aade476321d6fc68b955",
   "min_client_version": 1
 }
