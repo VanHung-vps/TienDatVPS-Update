@@ -1,7 +1,7 @@
 {
-    "version":  2,
-    "notes":  "Bản cập nhật V2: Tối ưu bộ cài tự động, khắc phục lỗi xác minh Setting\\Setting.exe, hỗ trợ cảnh báo đỏ khi có bản mới.",
-    "url":  "https://github.com/VanHung-vps/TienDatVPS-Update/releases/download/v2/update.zip",
-    "sha256":  "5c0187773d93f88458b93ac3eb1a8b68aefb5cdacaf3318cf7a2e9cabc3bbd9e",
+    "version":  3,
+    "notes":  "Ban cap nhat V3 (10/10/2026): Doi chieu Chien truong va Di Buon voi 301, toi uu QLTK va client game.",
+    "url":  "https://github.com/VanHung-vps/TienDatVPS-Update/releases/download/v3/update.zip",
+    "sha256":  "a2de671cfbb6cd2c7af4e7e986b8491ff3d49e10c6af10eb38404d71ae6475c1",
     "min_client_version":  1
 }
