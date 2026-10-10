@@ -1,7 +1,7 @@
 {
-  "version": 15,
-  "notes": "Ban cap nhat V15: ﻿THÔNG BÁO CẬP NHẬT — TIẾN ĐẠT VPS / JAVA SWING 403",
-  "url": "https://github.com/VanHung-vps/TienDatVPS-Update/releases/download/v15/update.zip",
-  "sha256": "876a77a8f1fb8d0729f1a03a8c335abdfeacead1eb855f3377b61da1ec88aff5",
+  "version": 16,
+  "notes": "Ban cap nhat V16: ﻿THÔNG BÁO CẬP NHẬT — TIẾN ĐẠT VPS / JAVA SWING 403",
+  "url": "https://github.com/VanHung-vps/TienDatVPS-Update/releases/download/v16/update.zip",
+  "sha256": "51c9b6ac2aad90623ac61411b5b8914467d5100ad72a694f3354caa522507f92",
   "min_client_version": 1
 }
